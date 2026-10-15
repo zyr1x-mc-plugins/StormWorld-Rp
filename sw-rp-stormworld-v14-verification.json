@@ -1,0 +1,12 @@
+{
+  "base": "sw-rp-stormworld-v13.zip",
+  "result": "sw-rp-stormworld-v14.zip",
+  "preserved-original-files": 1803,
+  "added-wheel-files": 146,
+  "changed-existing-files": [
+    "pack.mcmeta (description only)"
+  ],
+  "sha1": "8e23ff993863571f3ac495928d71563c73d9d635",
+  "sha256": "07e9e550151f2f302cc54a51c74371db4f02c35043b23b23e6afef9f99f6d5c3",
+  "size": 6020510
+}
