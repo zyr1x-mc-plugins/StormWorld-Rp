@@ -1,0 +1,15 @@
+[1/4]  Initializing...
+
+  OK  Initialized 0.001s
+[2/4]  Reading archive...
+
+  OK  Archive Read 0.036s
+[3/4]  Parsing resource files...
+
+  OK  Parsing Complete 0.023s
+[4/4]  Building resource pack...
+
+  OK  Resource pack built 43.543s
+:-) Done in 43.604s
+
+Zip file size: 5.66 MB /6.20 MB, (541.39 kB/8.7% smaller)
